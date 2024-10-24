@@ -1,0 +1,9 @@
+public class main {
+    public static void main(string[] args){
+        System.out.println("Hello, World!");
+        modify();
+    }
+    public static void modify() {
+    System.out.println("Modified method");
+}
+}
